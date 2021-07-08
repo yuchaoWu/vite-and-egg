@@ -1,0 +1,56 @@
+2021-07-08 15:04:08,164 INFO 29132 [egg:logger] init all loggers with options: {"dir":"F:\\vite-study\\vite-project\\logs\\1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-07-08 15:04:08,199 INFO 29132 [egg-multipart] stream mode enable
+2021-07-08 15:04:08,343 INFO 29132 [egg-static] starting static serve /public/ -> F:\vite-study\vite-project\app\public
+2021-07-08 15:04:08,346 INFO 29132 [egg-security] use csrf middleware
+2021-07-08 15:04:08,348 INFO 29132 [egg-security] use methodnoallow middleware
+2021-07-08 15:04:08,348 INFO 29132 [egg-security] use noopen middleware
+2021-07-08 15:04:08,349 INFO 29132 [egg-security] use nosniff middleware
+2021-07-08 15:04:08,350 INFO 29132 [egg-security] use xssProtection middleware
+2021-07-08 15:04:08,351 INFO 29132 [egg-security] use xframe middleware
+2021-07-08 15:04:08,352 INFO 29132 [egg-security] use dta middleware
+2021-07-08 15:04:08,352 INFO 29132 [egg-security] compose 7 middlewares into one security middleware
+2021-07-08 15:04:08,361 INFO 29132 [egg:core] dump config after load, 5ms
+2021-07-08 15:04:08,376 INFO 29132 [egg-watcher:application] watcher start success
+2021-07-08 15:04:08,387 INFO 29132 [egg:core] dump config after ready, 9ms
+2021-07-08 15:04:31,810 INFO 27044 [egg:logger] init all loggers with options: {"dir":"F:\\vite-study\\vite-project\\logs\\1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-07-08 15:04:31,853 INFO 27044 [egg-multipart] stream mode enable
+2021-07-08 15:04:32,005 INFO 27044 [egg-static] starting static serve /public/ -> F:\vite-study\vite-project\app\public
+2021-07-08 15:04:32,009 INFO 27044 [egg-security] use csrf middleware
+2021-07-08 15:04:32,010 INFO 27044 [egg-security] use methodnoallow middleware
+2021-07-08 15:04:32,010 INFO 27044 [egg-security] use noopen middleware
+2021-07-08 15:04:32,011 INFO 27044 [egg-security] use nosniff middleware
+2021-07-08 15:04:32,012 INFO 27044 [egg-security] use xssProtection middleware
+2021-07-08 15:04:32,013 INFO 27044 [egg-security] use xframe middleware
+2021-07-08 15:04:32,013 INFO 27044 [egg-security] use dta middleware
+2021-07-08 15:04:32,013 INFO 27044 [egg-security] compose 7 middlewares into one security middleware
+2021-07-08 15:04:32,034 INFO 27044 [egg:core] dump config after load, 10ms
+2021-07-08 15:04:32,052 INFO 27044 [egg-watcher:application] watcher start success
+2021-07-08 15:04:32,068 INFO 27044 [egg:core] dump config after ready, 13ms
+2021-07-08 15:04:33,909 INFO 27268 [egg:logger] init all loggers with options: {"dir":"F:\\vite-study\\vite-project\\logs\\1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-07-08 15:04:33,940 INFO 27268 [egg-multipart] stream mode enable
+2021-07-08 15:04:34,072 INFO 27268 [egg-static] starting static serve /public/ -> F:\vite-study\vite-project\app\public
+2021-07-08 15:04:34,075 INFO 27268 [egg-security] use csrf middleware
+2021-07-08 15:04:34,077 INFO 27268 [egg-security] use methodnoallow middleware
+2021-07-08 15:04:34,078 INFO 27268 [egg-security] use noopen middleware
+2021-07-08 15:04:34,079 INFO 27268 [egg-security] use nosniff middleware
+2021-07-08 15:04:34,080 INFO 27268 [egg-security] use xssProtection middleware
+2021-07-08 15:04:34,081 INFO 27268 [egg-security] use xframe middleware
+2021-07-08 15:04:34,081 INFO 27268 [egg-security] use dta middleware
+2021-07-08 15:04:34,081 INFO 27268 [egg-security] compose 7 middlewares into one security middleware
+2021-07-08 15:04:34,100 INFO 27268 [egg:core] dump config after load, 14ms
+2021-07-08 15:04:34,112 INFO 27268 [egg-watcher:application] watcher start success
+2021-07-08 15:04:34,121 INFO 27268 [egg:core] dump config after ready, 7ms
+2021-07-08 15:06:20,610 INFO 24092 [egg:logger] init all loggers with options: {"dir":"F:\\vite-study\\vite-project\\logs\\1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-07-08 15:06:20,642 INFO 24092 [egg-multipart] stream mode enable
+2021-07-08 15:06:20,764 INFO 24092 [egg-static] starting static serve /public/ -> F:\vite-study\vite-project\app\public
+2021-07-08 15:06:20,768 INFO 24092 [egg-security] use csrf middleware
+2021-07-08 15:06:20,768 INFO 24092 [egg-security] use methodnoallow middleware
+2021-07-08 15:06:20,769 INFO 24092 [egg-security] use noopen middleware
+2021-07-08 15:06:20,770 INFO 24092 [egg-security] use nosniff middleware
+2021-07-08 15:06:20,771 INFO 24092 [egg-security] use xssProtection middleware
+2021-07-08 15:06:20,771 INFO 24092 [egg-security] use xframe middleware
+2021-07-08 15:06:20,772 INFO 24092 [egg-security] use dta middleware
+2021-07-08 15:06:20,772 INFO 24092 [egg-security] compose 7 middlewares into one security middleware
+2021-07-08 15:06:20,781 INFO 24092 [egg:core] dump config after load, 5ms
+2021-07-08 15:06:20,793 INFO 24092 [egg-watcher:application] watcher start success
+2021-07-08 15:06:20,802 INFO 24092 [egg:core] dump config after ready, 8ms

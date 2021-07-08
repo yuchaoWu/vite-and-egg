@@ -1,0 +1,18 @@
+2021-07-08 15:04:08,395 INFO 5664 [Timer] F:\vite-study\vite-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 48351608ms at 2021-07-09 04:30:00.003
+2021-07-08 15:04:08,396 INFO 5664 [Timer] F:\vite-study\vite-project\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 32151605ms at 2021-07-09 00:00:00.001
+2021-07-08 15:04:08,396 INFO 5664 [Timer] F:\vite-study\vite-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 32152604ms at 2021-07-09 00:00:01.000
+2021-07-08 15:04:08,199 INFO 29132 [egg-schedule]: register schedule F:\vite-study\vite-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-07-08 15:04:08,199 INFO 29132 [egg-schedule]: register schedule F:\vite-study\vite-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-07-08 15:04:08,199 INFO 29132 [egg-schedule]: register schedule F:\vite-study\vite-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-07-08 15:04:31,852 INFO 27044 [egg-schedule]: register schedule F:\vite-study\vite-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-07-08 15:04:31,852 INFO 27044 [egg-schedule]: register schedule F:\vite-study\vite-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-07-08 15:04:31,852 INFO 27044 [egg-schedule]: register schedule F:\vite-study\vite-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-07-08 15:04:33,939 INFO 27268 [egg-schedule]: register schedule F:\vite-study\vite-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-07-08 15:04:33,939 INFO 27268 [egg-schedule]: register schedule F:\vite-study\vite-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-07-08 15:04:33,940 INFO 27268 [egg-schedule]: register schedule F:\vite-study\vite-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-07-08 15:06:20,808 INFO 27220 [Timer] F:\vite-study\vite-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 48219194ms at 2021-07-09 04:30:00.002
+2021-07-08 15:06:20,808 INFO 27220 [Timer] F:\vite-study\vite-project\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 32019192ms at 2021-07-09 00:00:00.000
+2021-07-08 15:06:20,808 INFO 27220 [Timer] F:\vite-study\vite-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 32020192ms at 2021-07-09 00:00:01.000
+2021-07-08 15:06:20,641 INFO 24092 [egg-schedule]: register schedule F:\vite-study\vite-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-07-08 15:06:20,641 INFO 24092 [egg-schedule]: register schedule F:\vite-study\vite-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-07-08 15:06:20,641 INFO 24092 [egg-schedule]: register schedule F:\vite-study\vite-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
